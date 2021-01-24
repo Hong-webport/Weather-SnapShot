@@ -1,0 +1,216 @@
+/* giving the body a dark background to better see the bright colored boxes */
+body {
+  background: rgba(105, 103, 103, 0.164)
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+
+
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+$grid-columns:      12;
+$grid-gutter-width: 30px;
+
+$grid-breakpoints: (
+  // Extra small screen / phone
+  xs: 0,
+  // Small screen / phone
+  sm: 576px,
+  // Medium screen / tablet
+  md: 768px,
+  // Large screen / desktop
+  lg: 992px,
+  // Extra large screen / wide desktop
+  xl: 1200px
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px
+);
+.sidback {
+
+  bottom: 0;
+  left: 3pc;
+  z-index: 1000;
+  display: block;
+  padding: 100px;
+  background-color: royalblue;
+  border-right: 1px solid #eee;
+  }
+
+  .sidenav a:hover, .dropdown-btn:hover {
+    color: #f1f1f1;
+  }
+  /* .vertical-menu a{
+   margin-left: 1pc;
+   margin-right: 1pc;
+  } */
+
+  .vertical-menu a{
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* margin-left: 1pc;
+    margin-right: 1pc; */
+  }
+
+  
+.vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+  }
+  
+  .vertical-menu a.active {
+    background-color: #4CAF50; /* Add a green color to the "active/current" link */
+    color: white;
+    border: 1px solid #007;
+    resize: both;
+    overflow:scroll;
+  
+   display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+  }
+
+
+
+  .vertical-menu {
+    position: relative;
+    width: 100%;
+    min-width: 50%;
+    max-width: 100%;
+
+    /* min-height: 1px; */
+
+  }
+ #disp {
+    position: relative;
+    width: 100%;
+    min-width: 20%;
+    /* min-height: 1px; */
+
+  }
+
+  .h3 {
+    position: relative;
+    max-height: 2px;
+
+  }
+@media only screen and (max-width: 900px) {
+    #disp {
+      display: none}      }
+
+@media only screen and (max-width: 720px) {
+        .vertical-menu { display: none; 
+        }
+      } 
+@media only screen and (max-width: 1140px) {
+        .vertical-menu { margin-bottom: 0pc; 
+        }
+      }
+      
+@media only screen and (max-width: 720px) {
+        #bio-image {
+          display: none;
+        }
+      } 
+
+@media only screen and (max-width: 1140px) {
+        #card-contents {
+          display: none;        
+
+        }
+      } 
+      
+@media only screen and (min-width: 900px) {
+        #show-later {
+          display: none;}}
+
+@media only screen and (max-width: 900px) {
+        #sider {
+          display: none;}}
+
+
+      /* @media only screen and (max-width: 1200px) {
+        #disp {
+          display:none;}}
+    @media only screen and (max-width: 1200px) {
+            .vertical-menu {
+              display: none;
+            }
+          } */
+
+    /* @media (max-width: 1026px) {
+        #test(some id) {
+            display: none;
+        }
+    } */
+  .wrapper {
+      min-height: 100%;
+      height: auto ;
+      height: 100%;
+      margin: 0 auto -142px; /* the bottom margin is the negative value of the footer's height */
+  }
+/* .footer, .push {
+      height: 142px;position: relative; .push must be the same height as .footer */
+  /* } */
+.npr-footer {
+    clear: both;
+    position: relative;}
+    
+
+/* Here we define some styles that will ONLY be applied at screen sizes below 600 pixels */
+/* @media (max-width: 600px) { */
+  /* .box-1 {
+    background: purple;
+  } */
+
+  /* .box-2 {
+  background: yellow;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: solid 2px black;
+  } */
+
+  /* .box-3 {
+    display: none;
+  } */
+
+  /* .box-4 {
+    transform: rotate(360deg);
+    transition: transform 0.5s ease-in;
+  } */
+
+  /* .box-5 {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+    background: none;
+    margin-left: 300px;
+  } */
+}
