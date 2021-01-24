@@ -1,5 +1,5 @@
 # OpenWeatherMap API Key
-weather_api_key = "38"
+weather_api_key = 
 
 # Google API Key
-g_key = "AIza"
+g_key = 
