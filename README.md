@@ -65,4 +65,4 @@ Either by clicking on the dropdown button on the navigation bar in "Visualizatio
 
 This is a page with analysis looked in a Mobile Screen.
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/web_(3).PNG" width="720px">
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/web_(2).PNG" width="720px">
