@@ -1,6 +1,6 @@
 Hong-Georgia-Data.github.io
 
-# Weather Sanapsot Project
+# Weather Snapshot Project
 
 This project combined every steps required in Data Analytics and Visualisation. It served to improve and utilized skills in Python libraries and creating a dynamic website to better host and display such findings.
 
@@ -21,7 +21,18 @@ The main source of the data is **Openweather API**.
 
 <img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(1).PNG" width="720px">
 
-For More Details: Please check the [Readme in Data-Extaction](https://github.com/Hong-webport/Weather-SnapShot/tree/main/Data-Extraction%20(Python)/API-Challenge/README.md) folder.
+For More Details on the code: Please check the [Readme in Data-Extaction](https://github.com/Hong-webport/Weather-SnapShot/tree/main/Data-Extraction%20(Python)/API-Challenge/README.md) folder.
+#### The Data Mined and Stored
+
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(4).PNG" width="720px">
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(6).PNG" width="720px">
+
+
+#### An Example of the Visualizations
+
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(9).PNG" width="720px">
+
+
 
 Using a combinations of CSS and Javascript, I displayed the visualizations and findings resulted from them, in multiple pages.
 
