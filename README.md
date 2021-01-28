@@ -16,7 +16,7 @@ Using Python and its libraires, I extracted data from reputable, external data s
 
 The main source of the data is **Openweather API**. *Requests* is for extracting the data from the API. *Pandas* for transforming and working with the data. *Matplotlib* is the main visualization tool due to its simplicity and speed. Others are imported to assist in those tasks.
 
-[Preview](https://github.com/Hong-webport/Weather-SnapShot/Preview-Images/Data Extraction (1).PNG)
+[Preview](https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(1).PNG)
 
 
 
