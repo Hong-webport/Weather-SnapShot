@@ -25,7 +25,7 @@ For More Details on the code: Please check the [Readme in Data-Extaction](https:
 
 #### The Data Mined and Stored
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(4).PNG" width="720px">
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(4).PNG" width="360px">
 <img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(6).PNG" width="720px">
 
 
@@ -65,4 +65,4 @@ Either by clicking on the dropdown button on the navigation bar in "Visualizatio
 
 This is a page with analysis looked in a Mobile Screen.
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/web_(2).PNG" width="720px">
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/web_(2).PNG" width="360px">
