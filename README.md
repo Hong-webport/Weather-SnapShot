@@ -8,9 +8,19 @@ It is divided into several steps and organized into two main folders: [Data-Exta
 
 https://hong-webport.github.io/Web-Design-Challenge/landing.html
 
-
+## Data-Extraction
 
 Using Python and its libraires, I extracted data from reputable, external data sources, converted it into a spreadsheet and created some visualizations for analysis.
+
+#### Libraries and the Sources of the Data 
+
+The main source of the data is **Openweather API**. *Requests* is for extracting the data from the API. *Pandas* for transforming and working with the data. *Matplotlib* is the main visualization tool due to its simplicity and speed. Others are imported to assist in those tasks.
+
+![Preview](https://github.com/Hong-webport/Weather-SnapShot/Preview-Images/Data Extraction (1).PNG)
+
+
+
+#### Pythons 
 
 Using a combinations of CSS and Javascript, I displayed the visualizations and findings resulted from them, in multiple pages.
 
