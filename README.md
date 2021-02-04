@@ -2,13 +2,19 @@ Hong-Georgia-Data.github.io
 
 # Weather Snapshot Project
 
+## Goals
+The main goals of the projects are two-folds: 1. Gathered weather data of cities across the planet on a paticular date. With those datas, we can determined such question as whether a vocation on that date is suitable, etc. 2. Display them in graphs and host them in a website.
+
 This project combined every steps required in Data Analytics and Visualisation. It served to improve and utilized skills in Python libraries and creating a dynamic website to better host and display such findings.
 
 It is divided into several steps and organized into two main folders: [Data-Extaction](https://github.com/Hong-webport/Weather-SnapShot/tree/main/Data-Extraction%20(Python)/API-Challenge) and [Web](https://github.com/Hong-webport/Weather-SnapShot/tree/main/Web%20(HTML%20%26%20JS)). The results are displayed in the following links.
 
-https://hong-webport.github.io/Web-Design-Challenge/landing.html
+## Results
+To see the results please click on this links.https://hong-webport.github.io/Web-Design-Challenge/landing.html.
 
-## Data-Extraction
+This is the first website I've built. It was designed to be able to be easily updated. Due to the free nature of the API, datas on only a single day can be displayed. Yet, since the coding for the extraction and visualization worked. New datas could be placed without much issues. Further improvements can be made such as automatic updates and other tweakings. That would involved other technologies which will be master in due time. 
+
+## The Process: Data-Extraction
 
 Using Python and its libraires, I extracted data from reputable, external data sources, converted it into a spreadsheet and created some visualizations for analysis.
 
@@ -25,7 +31,7 @@ For More Details on the code: Please check the [Readme in Data-Extaction](https:
 
 #### The Data Mined and Stored
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(4).PNG" width="360px">
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(4).PNG" width="720px">
 <img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/Data%20Extraction%20(6).PNG" width="720px">
 
 
@@ -65,4 +71,4 @@ Either by clicking on the dropdown button on the navigation bar in "Visualizatio
 
 This is a page with analysis looked in a Mobile Screen.
 
-<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/web_(2).PNG" width="360px">
+<img src="https://github.com/Hong-webport/Weather-SnapShot/blob/main/Preview-Images/web_(2s).PNG" width="360px">
